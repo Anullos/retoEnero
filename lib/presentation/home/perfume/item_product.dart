@@ -66,7 +66,7 @@ class _ItemProductState extends State<ItemProduct>
                     ..setEntry(3, 2, 0.001)
                     ..rotateY((-value! * pi)),
                   child: Container(
-                    height: 220,
+                    height: 200,
                     color: Colors.white,
                     child: Stack(
                       children: [
